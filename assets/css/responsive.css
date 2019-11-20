@@ -1,0 +1,1240 @@
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+/* Styles */
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 321px) {
+/* Styles */
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+/* Styles */
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+
+
+}
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+.navbar-brand img {
+    width: 200px !important;
+  }
+header .navbar .nav-link {
+    font-size: 12px !important;
+}
+.section-bg {
+    height: 300px !important;
+    background-size: cover;
+    margin-top: 9% !important;
+    background-size: cover;
+    background-position: 100% 100% !important;
+}
+.section-merchnage-bg{
+    height: 300px !important;
+    background-size: cover;
+    margin-top: 9% !important;
+    background-size: cover;
+    background-position: 100% 100% !important;
+}
+.section-deliver-bg{
+    height: 300px !important;
+    background-size: cover;
+    margin-top: 9% !important;
+    background-size: cover;
+    background-position: 100% 100% !important;
+}
+.banner-text h2 {
+    font-size: 20px !important;
+   }
+.m-top-25 {
+    margin-top: 10% !important;
+  }
+.banner-text a{
+    padding: 10px 30px !important;
+}
+.beneefit-h2 {
+    font-family: Montserrat-Bold;
+    font-size: 18px;
+  }
+.company-desc p {
+   font-size: 16px !important;
+   padding: 20px 10px !important;
+}
+.ulist li {
+    font-size: 16px !important;
+    }
+.border-r {
+    border-right: 2px solid #ffc20e !important;
+    border-bottom: 0px !important;
+    margin-bottom: 20px !important;
+}
+.easy-title {
+    font-family: Montserrat-SemiBold;
+    font-size: 13px !important;
+}
+.simple-text {
+    font-size: 16px !important;
+}
+.ulli {
+    list-style-type: none;
+    padding-left: 0 !important;
+}
+.ulli li .li1 span {
+    left: auto; 
+    margin-left: 10%;
+    margin-top: -30px;
+    top: auto;
+}
+.ulli li .arrow {
+       display: block !important;
+    height: 150px !important;
+    width: 116px;
+    margin-left: 0px !important;
+    transform: rotate(0deg) !important;
+}
+.ulli li .arrow img {
+    width: 65%;
+    margin: auto;
+    display: block;
+    padding: 30px 10px !important;
+}
+.ulli li .li1 {
+    width: 230px !important;
+}
+.ulli li .li1 h3 {
+    font-family: Montserrat-SemiBold;
+    font-size: 15px !important;
+}
+.m-t15{
+    margin-top: 5%;
+}
+.get-today {
+    font-size: 18px !important;
+}
+.text-partner {
+    font-size: 18px !important;
+}
+.signupnow, .contactus-btn {
+    font-size: 15px !important;
+    border: solid 2px #ffc20e !important;
+    padding: 10px 15px !important;
+}
+.footermenu ul li {
+    display: inline-block;
+    margin: 0 5px !important;
+}
+.footermenu ul li a {
+    font-family: Montserrat-SemiBold;
+    font-size: 11px !important;
+    line-height: normal !important;
+}
+.footermenu{
+    margin-top: 15px;
+}
+.social-link ul {
+    float: right;
+    margin-right: 30px !important;
+}
+.footerlogo {
+    width: 197px !important;
+}
+}
+
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+.navbar-brand img {
+    width: 200px !important;
+  }
+header .navbar .nav-link {
+    font-size: 12px !important;
+}
+.section-bg {
+    height: 250px !important;
+    background-size: cover;
+    margin-top: 12% !important;
+    background-position: 95% 100% !important;
+}
+.section-merchnage-bg{
+    height: 250px !important;
+    background-size: cover;
+    margin-top: 12% !important;
+    background-position: 95% 100% !important;
+}
+.section-deliver-bg{
+    height: 250px !important;
+    background-size: cover;
+    margin-top: 12% !important;
+    background-position: 95% 100% !important;
+}
+.banner-text h2 {
+    font-size: 20px !important;
+   }
+.m-top-25 {
+    margin-top: 10% !important;
+  }
+.banner-text a{
+    padding: 10px 30px !important;
+}
+.beneefit-h2 {
+    font-family: Montserrat-Bold;
+    font-size: 18px;
+  }
+.company-desc p {
+   font-size: 16px !important;
+   padding: 20px 10px !important;
+}
+.ulist li {
+    font-size: 16px !important;
+    }
+.border-r {
+    border-right: 2px solid #ffc20e !important;
+    border-bottom: 0px !important;
+    margin-bottom: 20px !important;
+}
+.easy-title {
+    font-family: Montserrat-SemiBold;
+    font-size: 13px !important;
+}
+.simple-text {
+    font-size: 16px !important;
+}
+.ulli {
+    list-style-type: none;
+    padding-left: 0 !important;
+}
+.ulli li .li1 span {
+    left: auto; 
+    margin-left: 10%;
+    margin-top: -30px;
+    top: auto;
+}
+.ulli li .arrow {
+    display: none;
+   height: 150px !important;
+    width: 100px;
+    margin-left: 70px !important;
+    transform: rotate(90deg) !important;
+}
+.ulli li .arrow img {
+    width: 65%;
+    margin: auto;
+    display: block;
+    padding: 30px 10px !important;
+}
+.ulli li .li1 {
+    width: 230px !important;
+}
+.ulli li .li1 h3 {
+    font-family: Montserrat-SemiBold;
+    font-size: 15px !important;
+}
+.m-t15{
+    margin-top: 5%;
+}
+.get-today {
+    font-size: 18px !important;
+}
+.text-partner {
+    font-size: 18px !important;
+}
+.signupnow, .contactus-btn {
+    font-size: 15px !important;
+    border: solid 2px #ffc20e !important;
+    padding: 10px 15px !important;
+}
+.footermenu ul li {
+    display: inline-block;
+    margin: 0 5px !important;
+}
+.footermenu ul li a {
+    font-family: Montserrat-SemiBold;
+    font-size: 11px !important;
+    line-height: normal !important;
+}
+.footermenu{
+    margin-top: 15px;
+}
+.social-link ul {
+    float: right;
+    margin-right: 30px !important;
+}
+.footerlogo {
+    width: 197px !important;
+}
+}
+
+/**Ipod Pro**/
+/* Landscape*/
+
+@media only screen and (min-device-width: 1366px) and (max-device-height: 1024px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: landscape)  {
+
+}
+
+/* Portrait*/
+@media only screen and (min-device-width: 1024px) and (max-device-height: 1366px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: portrait)  {
+header .navbar .nav-link {
+    font-family: 'Montserrat-SemiBold';
+    font-size: 13px !important;
+}
+ .section-bg {
+    height: 360px !important;
+    background-size: cover;
+    margin-top: 9% !important;
+    background-position: 100% 100% !important;
+}
+.section-merchnage-bg
+{
+    height: 360px !important;
+    background-size: cover;
+    margin-top: 9% !important;
+    background-position: 100% 100% !important;
+}
+.section-deliver-bg{
+      height: 360px !important;
+    background-size: cover;
+    margin-top: 9% !important;
+    background-position: 100% 100% !important;
+}
+.ulli li .li1 {
+    width: 230px !important;
+}
+.ulli li .li1 img {
+    width: 44% !important;
+    height: 64px !important;
+    margin: 30px auto 10px;
+    display: block;
+}
+.ulli li .li1 h3 {
+    font-family: Montserrat-SemiBold;
+    font-size: 15px !important;
+}
+.ulli li .arrow {
+       display: block !important;
+    height: 150px !important;
+    width: 116px;
+    margin-left: 0px !important;
+    transform: rotate(0deg) !important;
+}
+.signupnow, .contactus-btn {
+    font-family: Montserrat-Bold;
+    font-size: 16px;
+}
+.footermenu ul li a {
+    font-family: Montserrat-SemiBold;
+    font-size: 14px !important;
+}
+.footermenu ul li {
+    display: inline-block;
+    margin: 0 10px !important;
+}
+}
+/**end**/
+/**********
+iPad 3
+**********/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+
+}
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width : 1224px) {
+/* Styles */
+}
+
+/* Large screens ----------- */
+@media only screen  and (min-width : 1824px) {
+/* Styles */
+}
+
+/* iPhone 4 ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+
+/* iPhone 5 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+
+}
+
+/* iPhone 6, 7, 8 ----------- */
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+.navbar-brand img {
+    width: 200px !important;
+  }
+header .navbar .nav-link {
+    font-size: 12px !important;
+}
+.section-bg {
+    height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.section-merchnage-bg {
+    height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.section-deliver-bg{
+    height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.banner-text h2 {
+    font-size: 20px !important;
+   }
+.m-top-25 {
+    margin-top: 10% !important;
+  }
+.banner-text a{
+    padding: 10px 30px !important;
+}
+.beneefit-h2 {
+    font-family: Montserrat-Bold;
+    font-size: 18px;
+  }
+.company-desc p {
+   font-size: 16px !important;
+   padding: 20px 10px !important;
+}
+.ulist li {
+    font-size: 16px !important;
+    }
+.border-r {
+    border-bottom: 2px solid #ffc20e !important;
+    border-right: 0px !important;
+    margin-bottom: 20px !important;
+}
+.simple-text {
+    font-size: 16px !important;
+}
+.ulli {
+    list-style-type: none;
+    padding-left: 0 !important;
+}
+.ulli li .li1 span {
+    left: auto; 
+    margin-left: 30%;
+    margin-top: -30px;
+    top: auto;
+}
+.ulli li .arrow {
+   height: 150px !important;
+    width: 100px;
+    margin-left: 70px !important;
+    transform: rotate(90deg) !important;
+}
+.ulli li .arrow img {
+    width: 65%;
+    margin: auto;
+    display: block;
+    padding: 30px 10px !important;
+}
+.m-t15{
+    margin-top: 15%;
+}
+.get-today {
+    font-size: 18px !important;
+}
+.text-partner {
+    font-size: 18px !important;
+}
+.signupnow, .contactus-btn {
+    font-size: 15px !important;
+    border: solid 2px #ffc20e !important;
+    padding: 10px 15px !important;
+}
+.footermenu ul li a {
+    font-family: Montserrat-SemiBold;
+    font-size: 12px !important;
+    line-height: normal !important;
+}
+.footermenu{
+    margin-top: 15px;
+}
+.social-link ul {
+    float: right;
+    margin-right: 90px !important;
+}
+}
+
+/* iPhone 6+, 7+, 8+ ----------- */
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+.navbar-brand img {
+    width: 200px !important;
+  }
+header .navbar .nav-link {
+    font-size: 12px !important;
+}
+.section-bg {
+    height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.section-merchnage-bg{
+    height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.section-deliver-bg{
+    height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.banner-text h2 {
+    font-size: 20px !important;
+   }
+.m-top-25 {
+    margin-top: 10% !important;
+  }
+.banner-text a{
+    padding: 10px 30px !important;
+}
+.beneefit-h2 {
+    font-family: Montserrat-Bold;
+    font-size: 18px;
+  }
+.company-desc p {
+   font-size: 16px !important;
+   padding: 20px 10px !important;
+}
+.ulist li {
+    font-size: 16px !important;
+    }
+.border-r {
+    border-bottom: 2px solid #ffc20e !important;
+    border-right: 0px !important;
+    margin-bottom: 20px !important;
+}
+.simple-text {
+    font-size: 16px !important;
+}
+.ulli {
+    list-style-type: none;
+    padding-left: 0 !important;
+}
+.ulli li .li1 span {
+    left: auto; 
+    margin-left: 30%;
+    margin-top: -30px;
+    top: auto;
+}
+.ulli li .arrow {
+   height: 150px !important;
+    width: 100px;
+    margin-left: 70px !important;
+    transform: rotate(90deg) !important;
+}
+.ulli li .arrow img {
+    width: 65%;
+    margin: auto;
+    display: block;
+    padding: 30px 10px !important;
+}
+.m-t15{
+    margin-top: 15%;
+}
+.get-today {
+    font-size: 18px !important;
+}
+.text-partner {
+    font-size: 18px !important;
+}
+.signupnow, .contactus-btn {
+    font-size: 15px !important;
+    border: solid 2px #ffc20e !important;
+    padding: 10px 15px !important;
+}
+.footermenu ul li a {
+    font-family: Montserrat-SemiBold;
+    font-size: 12px !important;
+    line-height: normal !important;
+}
+.footermenu{
+    margin-top: 15px;
+}
+.social-link ul {
+    float: right;
+    margin-right: 90px !important;
+}
+}
+
+/* iPhone X ----------- */
+@media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+.navbar-brand img {
+    width: 200px !important;
+  }
+header .navbar .nav-link {
+    font-size: 12px !important;
+}
+.section-bg {
+    height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.section-merchnage-bg {
+     height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.section-deliver-bg{
+     height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+
+.banner-text h2 {
+    font-size: 20px !important;
+   }
+.m-top-25 {
+    margin-top: 10% !important;
+  }
+.banner-text a{
+    padding: 10px 30px !important;
+}
+.beneefit-h2 {
+    font-family: Montserrat-Bold;
+    font-size: 18px;
+  }
+.company-desc p {
+   font-size: 16px !important;
+   padding: 20px 10px !important;
+}
+.ulist li {
+    font-size: 16px !important;
+    }
+.border-r {
+    border-bottom: 2px solid #ffc20e !important;
+    border-right: 0px !important;
+    margin-bottom: 20px !important;
+}
+.simple-text {
+    font-size: 16px !important;
+}
+.ulli {
+    list-style-type: none;
+    padding-left: 0 !important;
+}
+.ulli li .li1 span {
+    left: auto; 
+    margin-left: 30%;
+    margin-top: -30px;
+    top: auto;
+}
+.ulli li .arrow {
+   height: 150px !important;
+    width: 100px;
+    margin-left: 70px !important;
+    transform: rotate(90deg) !important;
+}
+.ulli li .arrow img {
+    width: 65%;
+    margin: auto;
+    display: block;
+    padding: 30px 10px !important;
+}
+.m-t15{
+    margin-top: 15%;
+}
+.get-today {
+    font-size: 18px !important;
+}
+.text-partner {
+    font-size: 18px !important;
+}
+.signupnow, .contactus-btn {
+    font-size: 15px !important;
+    border: solid 2px #ffc20e !important;
+    padding: 10px 15px !important;
+}
+.footermenu ul li a {
+    font-family: Montserrat-SemiBold;
+    font-size: 12px !important;
+    line-height: normal !important;
+}
+.footermenu{
+    margin-top: 15px;
+}
+.social-link ul {
+    float: right;
+    margin-right: 90px !important;
+}
+}
+
+/* Pixel 2 ----------- */
+@media only screen and (min-device-width: 414px) and (max-device-height: 731px)  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: portrait) {
+.navbar-brand img {
+    width: 200px !important;
+  }
+header .navbar .nav-link {
+    font-size: 12px !important;
+}
+.section-bg {
+    height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.section-merchnage-bg {
+      height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.section-deliver-bg{
+      height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.banner-text h2 {
+    font-size: 20px !important;
+   }
+.m-top-25 {
+    margin-top: 10% !important;
+  }
+.banner-text a{
+    padding: 10px 30px !important;
+}
+.beneefit-h2 {
+    font-family: Montserrat-Bold;
+    font-size: 18px;
+  }
+.company-desc p {
+   font-size: 16px !important;
+   padding: 20px 10px !important;
+}
+.ulist li {
+    font-size: 16px !important;
+    }
+.border-r {
+    border-bottom: 2px solid #ffc20e !important;
+    border-right: 0px !important;
+    margin-bottom: 20px !important;
+}
+.simple-text {
+    font-size: 16px !important;
+}
+.ulli {
+    list-style-type: none;
+    padding-left: 0 !important;
+}
+.ulli li .li1 span {
+    left: auto; 
+    margin-left: 30%;
+    margin-top: -30px;
+    top: auto;
+}
+.ulli li .arrow {
+   height: 150px !important;
+    width: 100px;
+    margin-left: 70px !important;
+    transform: rotate(90deg) !important;
+}
+.ulli li .arrow img {
+    width: 65%;
+    margin: auto;
+    display: block;
+    padding: 30px 10px !important;
+}
+.m-t15{
+    margin-top: 15%;
+}
+.get-today {
+    font-size: 18px !important;
+}
+.text-partner {
+    font-size: 18px !important;
+}
+.signupnow, .contactus-btn {
+    font-size: 15px !important;
+    border: solid 2px #ffc20e !important;
+    padding: 10px 15px !important;
+}
+.footermenu ul li a {
+    font-family: Montserrat-SemiBold;
+    font-size: 12px !important;
+    line-height: normal !important;
+}
+.footermenu{
+    margin-top: 15px;
+}
+.social-link ul {
+    float: right;
+    margin-right: 90px !important;
+}
+}
+
+/* Pixel 2 ----------- */
+@media only screen and (min-device-width: 414px) and (max-device-height: 731px)  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: landscape) {
+.navbar-brand img {
+    width: 200px !important;
+  }
+header .navbar .nav-link {
+    font-size: 12px !important;
+}
+.section-bg {
+    height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.section-merchnage-bg{
+     height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.section-deliver-bg{
+    height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.banner-text h2 {
+    font-size: 20px !important;
+   }
+.m-top-25 {
+    margin-top: 10% !important;
+  }
+.banner-text a{
+    padding: 10px 30px !important;
+}
+.beneefit-h2 {
+    font-family: Montserrat-Bold;
+    font-size: 18px;
+  }
+.company-desc p {
+   font-size: 16px !important;
+   padding: 20px 10px !important;
+}
+.ulist li {
+    font-size: 16px !important;
+    }
+.border-r {
+    border-bottom: 2px solid #ffc20e !important;
+    border-right: 0px !important;
+    margin-bottom: 20px !important;
+}
+.simple-text {
+    font-size: 16px !important;
+}
+.ulli {
+    list-style-type: none;
+    padding-left: 0 !important;
+}
+.ulli li .li1 span {
+    left: auto; 
+    margin-left: 30%;
+    margin-top: -30px;
+    top: auto;
+}
+.ulli li .arrow {
+   height: 150px !important;
+    width: 100px;
+    margin-left: 70px !important;
+    transform: rotate(90deg) !important;
+}
+.ulli li .arrow img {
+    width: 65%;
+    margin: auto;
+    display: block;
+    padding: 30px 10px !important;
+}
+.m-t15{
+    margin-top: 15%;
+}
+.get-today {
+    font-size: 18px !important;
+}
+.text-partner {
+    font-size: 18px !important;
+}
+.signupnow, .contactus-btn {
+    font-size: 15px !important;
+    border: solid 2px #ffc20e !important;
+    padding: 10px 15px !important;
+}
+.footermenu ul li a {
+    font-family: Montserrat-SemiBold;
+    font-size: 12px !important;
+    line-height: normal !important;
+}
+.footermenu{
+    margin-top: 15px;
+}
+.social-link ul {
+    float: right;
+    margin-right: 90px !important;
+}
+ }
+@media only screen and (min-device-width: 414px) and (max-device-height: 896px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+/* Samsung Galaxy S3 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+/* Samsung Galaxy S4 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+/* Samsung Galaxy S5 ----------- */
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+.navbar-brand img {
+    width: 200px !important;
+  }
+header .navbar .nav-link {
+    font-size: 12px !important;
+}
+.section-bg {
+    height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.section-merchnage-bg {
+    height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.section-deliver-bg{
+    height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.banner-text h2 {
+    font-size: 20px !important;
+   }
+.m-top-25 {
+    margin-top: 10% !important;
+  }
+.banner-text a{
+    padding: 10px 30px !important;
+}
+.beneefit-h2 {
+    font-family: Montserrat-Bold;
+    font-size: 18px;
+  }
+.company-desc p {
+   font-size: 16px !important;
+   padding: 20px 10px !important;
+}
+.ulist li {
+    font-size: 16px !important;
+    }
+.border-r {
+    border-bottom: 2px solid #ffc20e !important;
+    border-right: 0px !important;
+    margin-bottom: 20px !important;
+}
+.simple-text {
+    font-size: 16px !important;
+}
+.ulli {
+    list-style-type: none;
+    padding-left: 0 !important;
+}
+.ulli li .li1 span {
+    left: auto; 
+    margin-left: 30%;
+    margin-top: -30px;
+    top: auto;
+}
+.ulli li .arrow {
+   height: 150px !important;
+    width: 100px;
+    margin-left: 70px !important;
+    transform: rotate(90deg) !important;
+}
+.ulli li .arrow img {
+    width: 65%;
+    margin: auto;
+    display: block;
+    padding: 30px 10px !important;
+}
+.m-t15{
+    margin-top: 15%;
+}
+.get-today {
+    font-size: 18px !important;
+}
+.text-partner {
+    font-size: 18px !important;
+}
+.signupnow, .contactus-btn {
+    font-size: 15px !important;
+    border: solid 2px #ffc20e !important;
+    padding: 10px 15px !important;
+}
+.footermenu ul li a {
+    font-family: Montserrat-SemiBold;
+    font-size: 12px !important;
+    line-height: normal !important;
+}
+.footermenu{
+    margin-top: 15px;
+}
+.social-link ul {
+    float: right;
+    margin-right: 90px !important;
+}
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+.navbar-brand img {
+    width: 200px !important;
+  }
+header .navbar .nav-link {
+    font-size: 12px !important;
+}
+.section-bg {
+    height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.section-merchnage-bg {
+    height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.section-deliver-bg{
+    height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.banner-text h2 {
+    font-size: 20px !important;
+   }
+.m-top-25 {
+    margin-top: 10% !important;
+  }
+.banner-text a{
+    padding: 10px 30px !important;
+}
+.beneefit-h2 {
+    font-family: Montserrat-Bold;
+    font-size: 18px;
+  }
+.company-desc p {
+   font-size: 16px !important;
+   padding: 20px 10px !important;
+}
+.ulist li {
+    font-size: 16px !important;
+    }
+.border-r {
+    border-bottom: 2px solid #ffc20e !important;
+    border-right: 0px !important;
+    margin-bottom: 20px !important;
+}
+.simple-text {
+    font-size: 16px !important;
+}
+.ulli {
+    list-style-type: none;
+    padding-left: 0 !important;
+}
+.ulli li .li1 span {
+    left: auto; 
+    margin-left: 30%;
+    margin-top: -30px;
+    top: auto;
+}
+.ulli li .arrow {
+   height: 150px !important;
+    width: 100px;
+    margin-left: 70px !important;
+    transform: rotate(90deg) !important;
+}
+.ulli li .arrow img {
+    width: 65%;
+    margin: auto;
+    display: block;
+    padding: 30px 10px !important;
+}
+.m-t15{
+    margin-top: 15%;
+}
+.get-today {
+    font-size: 18px !important;
+}
+.text-partner {
+    font-size: 18px !important;
+}
+.signupnow, .contactus-btn {
+    font-size: 15px !important;
+    border: solid 2px #ffc20e !important;
+    padding: 10px 15px !important;
+}
+.footermenu ul li a {
+    font-family: Montserrat-SemiBold;
+    font-size: 12px !important;
+    line-height: normal !important;
+}
+.footermenu{
+    margin-top: 15px;
+}
+.social-link ul {
+    float: right;
+    margin-right: 90px !important;
+}
+}
+
+
+@media (max-width:768px){
+.navbar-brand img {
+    width: 200px !important;
+  }
+header .navbar .nav-link {
+    font-size: 12px !important;
+}
+.section-bg {
+    height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.section-merchnage-bg {
+    height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.section-deliver-bg{
+    height: 200px !important;
+    background-size: cover;
+    margin-top: 25% !important;
+    background-position: 95% 100% !important;
+}
+.banner-text h2 {
+    font-size: 20px !important;
+   }
+.m-top-25 {
+    margin-top: 10% !important;
+  }
+.banner-text a{
+    padding: 10px 30px !important;
+}
+.beneefit-h2 {
+    font-family: Montserrat-Bold;
+    font-size: 18px;
+  }
+.company-desc p {
+   font-size: 16px !important;
+   padding: 20px 10px !important;
+}
+.ulist li {
+    font-size: 16px !important;
+    }
+.border-r {
+    border-bottom: 2px solid #ffc20e !important;
+    border-right: 0px !important;
+    margin-bottom: 20px !important;
+}
+.simple-text {
+    font-size: 16px !important;
+}
+.ulli {
+    list-style-type: none;
+    padding-left: 0 !important;
+}
+.ulli li .li1 span {
+    left: auto; 
+    margin-left: 30%;
+    margin-top: -30px;
+    top: auto;
+}
+.ulli li .arrow {
+   height: 150px !important;
+    width: 100px;
+    margin-left: 70px !important;
+    transform: rotate(90deg) !important;
+}
+.ulli li .arrow img {
+    width: 65%;
+    margin: auto;
+    display: block;
+    padding: 30px 10px !important;
+}
+.m-t15{
+    margin-top: 15%;
+}
+.get-today {
+    font-size: 18px !important;
+}
+.text-partner {
+    font-size: 18px !important;
+}
+.signupnow, .contactus-btn {
+    font-size: 15px !important;
+    border: solid 2px #ffc20e !important;
+    padding: 10px 15px !important;
+}
+.footermenu ul li a {
+    font-family: Montserrat-SemiBold;
+    font-size: 12px !important;
+    line-height: normal !important;
+}
+.footermenu{
+    margin-top: 15px;
+}
+.social-link ul {
+    float: right;
+    margin-right: 90px !important;
+}
+
+}
