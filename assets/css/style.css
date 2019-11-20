@@ -100,6 +100,7 @@ header .navbar .nav-link{
   text-align: right;
   color: #fefeff;
   margin-bottom: 30px;
+  text-transform: uppercase;
 }
 .banner-text a{
   background-color: #ffc20e;
@@ -414,4 +415,9 @@ header .navbar .nav-link{
 .social-link ul{
   float: right;
     margin-right: 10px;
+}
+
+/*yall-deliver css*/
+.rowpd60{
+      padding: 0 60px;
 }
