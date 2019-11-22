@@ -145,7 +145,11 @@ header .navbar .nav-link{
 .ulist{
   /*list-style-type: none;*/
    list-style-image: url('../images/li-img.png');
+
 }
+/*.ulist li:befor{
+
+}*/
 .ulist li{
    font-family: Montserrat-SemiBold;
   font-size: 17px;
@@ -420,4 +424,7 @@ header .navbar .nav-link{
 /*yall-deliver css*/
 .rowpd60{
       padding: 0 60px;
+}
+.row-pd img{
+  width: 80px;
 }
